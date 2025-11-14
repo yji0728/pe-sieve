@@ -1,0 +1,7 @@
+<map id="pesieve::util::extract_syscalls" name="pesieve::util::extract_syscalls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,140,68"/>
+<area shape="rect" id="Node000002" href="$namespacepesieve_1_1util.html#ac533b9c8a18228f62223a0042c40f5ae" title=" " alt="" coords="189,5,333,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,34,173,29,173,34,140,40"/>
+<area shape="rect" id="Node000003" href="$structpesieve_1_1_syscall_table.html#a7421f265ea7f8e42b0476d5929853c08" title=" " alt="" coords="188,55,334,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,55,173,60,172,65,139,60"/>
+</map>
